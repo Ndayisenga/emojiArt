@@ -19,6 +19,7 @@ struct EmojiArtDocumentView: View {
                         emoji in Text(emoji).font(Font.system(size: self.defaultEmojiSize))
                             .onDrag {
                                 NSItemProvider(object: emoji as  NSString)
+                                
                             }
                     }
                 }

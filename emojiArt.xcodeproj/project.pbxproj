@@ -62,9 +62,9 @@
 		815EE80F25C8229A00A38F01 /* emojiArt */ = {
 			isa = PBXGroup;
 			children = (
+				81C2A4A925C9760500F808FD /* EmojiArt.swift */,
 				815EE82525C823BB00A38F01 /* EmojiArtDocument.swift */,
 				815EE81425C8229A00A38F01 /* EmojiArtDocumentView.swift */,
-				81C2A4A925C9760500F808FD /* EmojiArt.swift */,
 				81C2A4AD25C983A800F808FD /* EmojiArtExtensions.swift */,
 				815EE81025C8229A00A38F01 /* AppDelegate.swift */,
 				815EE81225C8229A00A38F01 /* SceneDelegate.swift */,
