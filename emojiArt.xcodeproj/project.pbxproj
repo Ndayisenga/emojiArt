@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		814199FA25D2C648009091B7 /* Optionalimage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 814199F925D2C648009091B7 /* Optionalimage.swift */; };
 		815EE81125C8229A00A38F01 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815EE81025C8229A00A38F01 /* AppDelegate.swift */; };
 		815EE81325C8229A00A38F01 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815EE81225C8229A00A38F01 /* SceneDelegate.swift */; };
 		815EE81525C8229A00A38F01 /* EmojiArtDocumentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815EE81425C8229A00A38F01 /* EmojiArtDocumentView.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		814199F925D2C648009091B7 /* Optionalimage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Optionalimage.swift; sourceTree = "<group>"; };
 		815EE80D25C8229A00A38F01 /* emojiArt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = emojiArt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		815EE81025C8229A00A38F01 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		815EE81225C8229A00A38F01 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				81C2A4A925C9760500F808FD /* EmojiArt.swift */,
 				815EE82525C823BB00A38F01 /* EmojiArtDocument.swift */,
 				815EE81425C8229A00A38F01 /* EmojiArtDocumentView.swift */,
+				814199F925D2C648009091B7 /* Optionalimage.swift */,
 				81C2A4AD25C983A800F808FD /* EmojiArtExtensions.swift */,
 				815EE81025C8229A00A38F01 /* AppDelegate.swift */,
 				815EE81225C8229A00A38F01 /* SceneDelegate.swift */,
@@ -158,6 +161,7 @@
 				815EE81325C8229A00A38F01 /* SceneDelegate.swift in Sources */,
 				81C2A4AE25C983A800F808FD /* EmojiArtExtensions.swift in Sources */,
 				81C2A4AA25C9760500F808FD /* EmojiArt.swift in Sources */,
+				814199FA25D2C648009091B7 /* Optionalimage.swift in Sources */,
 				815EE81525C8229A00A38F01 /* EmojiArtDocumentView.swift in Sources */,
 				815EE82625C823BB00A38F01 /* EmojiArtDocument.swift in Sources */,
 			);
